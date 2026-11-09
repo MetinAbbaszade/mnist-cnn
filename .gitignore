@@ -1,0 +1,13 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# MNIST downloads automatically when the notebook runs
+data/
+
+# macOS
+.DS_Store
